@@ -1,5 +1,5 @@
 body {
-background-color: blue;
+background-color: #2678;
 }
 
 ul {
@@ -28,7 +28,7 @@ li a {
 }
 
 li a:hover {
-			background-color: #111111;
+			background-color: #2678;
 }
 
 
