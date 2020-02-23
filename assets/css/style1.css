@@ -46,9 +46,13 @@ li a:hover:not(.active) {
 a {
 	text-transform: uppercase;
 }
+.push{
+  float: right;
+}
+
 
 div.content{ 
-	margin-left: 25%;
+	margin-left: 5%;
 	padding: 1px 16px;
 	height: 1000px;
 	
@@ -77,9 +81,4 @@ div.content{
   }
 }
 
-.push{
-  float: right;
-}
 
-
-}
