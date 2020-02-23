@@ -46,6 +46,15 @@ li a:hover:not(.active) {
 a {
 	text-transform: uppercase;
 }
+
+div.content{ 
+	margin: 25px;
+	
+	height: 1000px;
+	
+
+
+
 @media screen and (max-width: 900px) {
   ul.sidenav {
     width: 100%;
@@ -73,9 +82,4 @@ a {
 }
 
 
-.box { 
-	margin: 25px;
-	
-	height: 1000px;
-	
 }
