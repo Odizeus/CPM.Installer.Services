@@ -76,6 +76,6 @@ a {
 .box { 
 	margin: 25px;
 	
-	height: auto;
-	with: auto;
+	height: 1000px;
+	
 }
