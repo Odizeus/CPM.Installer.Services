@@ -73,8 +73,9 @@ a {
 }
 
 
-.box {
+.box { 
+	margin: 25px;
 	display: block;
 	height: auto;
-	with: 90%vh;
+	with: auto;
 }
