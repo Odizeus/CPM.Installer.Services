@@ -51,3 +51,8 @@ a {
 .push{
   float: right;
 }
+
+
+.box {
+	display: block;
+}
