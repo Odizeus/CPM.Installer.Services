@@ -27,10 +27,9 @@ li a {
 
 }
 
-li a:hover {
-			background-color: #2678;
+li a:hover:not(.active) {
+  background-color: #2678;
 }
-
 
 .push{
   float: right;
