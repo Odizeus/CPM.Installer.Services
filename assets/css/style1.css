@@ -36,8 +36,6 @@ ul.sidenav li a:hover:not(.active) {
 }
 
 
-.push {
-  float: right;
 }
 
 
@@ -69,3 +67,15 @@ div.content {
     float: none;
   }
 }
+
+
+@media screen and (max-width: 900px) {
+  
+  .push {
+    float: right;
+  }
+
+}
+
+
+
