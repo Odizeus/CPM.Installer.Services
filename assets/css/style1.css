@@ -74,5 +74,7 @@ a {
 
 
 .box {
-	display: block;
+	display: flex;
+	height: auto;
+	with: 90%vh;
 }
