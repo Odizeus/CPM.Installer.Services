@@ -1,7 +1,6 @@
-body {
-background-color: #7fb5c7;
+  text-decoration: none;
 }
-
+ 
 ul.sidenav li a.active {
   background-color: #7fb5b4;
   color: white;
@@ -11,10 +10,6 @@ ul.sidenav li a:hover:not(.active) {
   background-color: #7fb5b4;
   color: white;
 }
-
-.push{
-  float: right;
-
 
 div.content {
   margin-left: 25%;
@@ -43,17 +38,3 @@ div.content {
     float: none;
   }
 }
-li a:hover:not(.active) {
-  background-color: #7fb5c7;
-}
-
-a {
-	text-transform: uppercase;
-}
-
-
-
-	
-
-
-
