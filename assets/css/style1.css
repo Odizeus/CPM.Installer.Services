@@ -2,6 +2,10 @@ body {
 background-color: #2678;
 }
 
+nav{
+mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+}
+
 ul {
       list-style-type: none;
       overflow: hidden;
