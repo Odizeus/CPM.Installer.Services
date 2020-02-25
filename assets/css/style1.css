@@ -21,8 +21,7 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, F
 
 
 .color1 {
-  filter: sepia(100%);   
-  -webkit-filter: sepia(100%);
+  background-color: 00d4ff;
 }
 
 ul.sidenav {
