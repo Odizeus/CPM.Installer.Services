@@ -1,5 +1,5 @@
 body {
-background-color: #7fb5c7;
+background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
 margin: 0;}
 
 ul.sidenav {
