@@ -2,6 +2,10 @@
 
 <html>
 
+
+
+
+
 <head>
 
 <meta charset="UTF-8">
@@ -11,27 +15,45 @@
 
 
 <!-----styles------>
+<link rel="stylesheet" type="text/css" href="./assets/css/style2.css"/>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" type="text/css" href="./assets/css/style1.css"/>
+
+
+
+<!--special fonts---->
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+
 
 </head>
 
 <!--navigation bar---->
 
- <body>
+ <body class="imagen-fondo" style="background-image: url('./assets/img/fondo.jpg')">
  
    
 <ul class="sidenav">
-  <li><a href="./index.html">Home</a></li>
-  <li><a href="./floor_works.html">Floor works</a></li>
-  <li><a href="./celling_works.html">Celling works</a></li>
-  <li><a href="./contact.html">Contact</a></li>
-  <li class="push"><a href="./about.html">About</a></li>
+  <li><a href="./index.html">HOME</a></li>
+  <li><a href="./floor_works.html">FLOOR INSTALLATION</a></li>
+  <li><a href="./celling_works.html">INTERNAL RENEWAL</a></li>
+  <li><a href="./contact.html">CONTACT US</a></li>
+  <li class="push"><a href="./about.html">ABOUT US</a></li>
 </ul>  
 
 
-<h1>Contact Form</h1>
 
 
+<div class="content">
+
+<h1>Contact us</h1>
+<form action="https://formspree.io/xbjogbzb" method="POST">
+  <input name="name" placeholder="What is your name?" class="name" required />
+  <input name="emailaddress" placeholder="What is your email?" class="email" type="email" required />
+  <textarea rows="4" cols="50" name="subject" placeholder="Please enter your message" class="message" required></textarea>
+  <input name="submit" class="btn" type="submit" value="Send" /><input class="btn" type="reset" value="Reset">
+</form>
+</div>
 
 
 </body>
