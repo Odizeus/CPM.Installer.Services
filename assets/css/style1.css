@@ -19,6 +19,12 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, F
   object-fit: cover;
 }
 
+
+.color1 {
+  filter: sepia(100%);   
+  -webkit-filter: sepia(100%);
+}
+
 ul.sidenav {
   list-style-type: none;
   margin: 0px;
