@@ -87,13 +87,13 @@ div.content {
 }
 
 .content2 {
-  
+  object-fit: contain;
   margin-left: 2%;
   margin-top: 50px;
   padding-bottom: 20px;
   padding: 10px 16px;
   height: 10vh;
-  width: fit-content;
+  width: 400px;
   text-align: center;
   
   
