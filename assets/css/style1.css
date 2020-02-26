@@ -2,7 +2,7 @@
 
 body {
   
-  background: #bdc3c7;  /* fallback for old browsers */
+  background: #bdc3c7;
 
 }  
 
@@ -18,13 +18,13 @@ body {
 }
 
 
-.color1 {
+.overlay1 {
   with: 100%;
   height: 100%;
   color: grey;
   opacity: 0.5;
   position: relative;
-  
+  overflow: hidden;
 }
 
 ul.sidenav {
