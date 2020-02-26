@@ -89,10 +89,10 @@ div.content {
 .content2 {
   object-fit: contain;
   margin-left: 2%;
-  margin-top: 50px;
+  margin-top: 20px;
   padding-bottom: 20px;
   padding: 10px 16px;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   text-align: center;
   
